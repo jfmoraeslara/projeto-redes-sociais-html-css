@@ -1,1 +1,1 @@
-# projetos-redes-sociais-html-css
+# projeto-redes-sociais-html-css
