@@ -62,3 +62,8 @@ section#redes-sociais img:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
     transition: transform .3s, border 1s;
 }
+
+/* ao clicar os botões afundam */
+section#redes-sociais img:active {
+    transform: scale(95%);
+}
